@@ -1,5 +1,10 @@
  
- <html>
+  <!DOCTYPE html>
+     <html>
+      <html lang = "PT-BR"><!
+         <body> 
+           <heard> Nesse site vamo falar sobre comida, aqui vou mostrar receitas fáceis, rápidas e saúdaveis. <heard/>
+           <html>
    <title>  turma-1-ano-terceiro-trimestre <title/>
      <body> 
         <main> Eu sou Dafny Aparecida Dos Santos Oliveira, estou cursando o 1 ano do ensino médio no Colégio Cívico Militar José De Alencar no ano de 2023, em Curiúva, Pr. Meus hobbies são jogar futebol, tocar guitarra, jogar jogos no pc, cozinhar, malhar entre outras coisas. Mas nesse site vamo falar sobre comida, aqui vou mostrar receitas fáceis, rápidas e saúdaveis. 
@@ -8,7 +13,7 @@
  ![image](https://github.com/dafny2023/turma-1-ano-terceiro-trimestre/assets/132667592/b6889d76-a777-459d-90ae-f25d1428f948) 
   <img/>
 
- Bem, vamos começar pelo simples. Um dos aspectos primordiais da alimentação saudável é a ingestão de verduras, legumes e frutas. A alimentação saudável consiste no cardápio ou na dieta que prioriza os grupos alimentares que fazem bem para a saúde do ser humano, sendo:
+ <title> Bem, vamos começar pelo simples. Um dos aspectos primordiais da alimentação saudável é a ingestão de verduras, legumes e frutas. A alimentação saudável consiste no cardápio ou na dieta que prioriza os grupos alimentares que fazem bem para a saúde do ser humano, sendo: <title/>
 <ol>
  -frutas;
  -verduras;
