@@ -1,6 +1,5 @@
  
   <!DOCTYPE html>
-     <html>
       <html lang = "PT-BR"><!
          <body> 
            <heard> Nesse site vamo falar sobre comida, aqui vou mostrar receitas fáceis, rápidas e saúdaveis. <heard/>
@@ -13,7 +12,8 @@
  ![image](https://github.com/dafny2023/turma-1-ano-terceiro-trimestre/assets/132667592/b6889d76-a777-459d-90ae-f25d1428f948) 
   <img/>
 
- <title> Bem, vamos começar pelo simples. Um dos aspectos primordiais da alimentação saudável é a ingestão de verduras, legumes e frutas. A alimentação saudável consiste no cardápio ou na dieta que prioriza os grupos alimentares que fazem bem para a saúde do ser humano, sendo: <title/>
+  <title> Bem, vamos começar pelo simples. Um dos aspectos primordiais da alimentação saudável é a ingestão de verduras, legumes e frutas. A alimentação saudável consiste no cardápio ou na dieta que prioriza os grupos alimentares que fazem bem para a saúde do ser humano, sendo: 
+     <title/>
 <ol>
  -frutas;
  -verduras;
