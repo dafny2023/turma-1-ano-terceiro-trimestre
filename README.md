@@ -25,10 +25,11 @@
  -gorduras boas (insaturadas).
       <ol/> 
 
- A alimentação saudável também envolve a variedade de grupos alimentares, a diversificação dos pratos consumidos e a constância ideal das refeições. Pode envolver, ainda, o balanceamento do teor nutricional das refeições, de acordo com a necessidade de cada pessoa.
+  <title> A alimentação saudável também envolve a variedade de grupos alimentares, a diversificação dos pratos consumidos e a constância ideal das refeições. Pode envolver, ainda, o balanceamento do teor nutricional das refeições, de acordo com a necessidade de cada pessoa.
  Indo um pouco mais além, para se alimentar de uma forma saudável é importante considerar as características da pessoa, como peso, faixa etária, atividades rotineiras, problemas preexistentes, e assim por diante. Para isso, é válido consultar um nutricionista ou um nutrólogo, profissionais especializados nessa área.
 
  Ao mesmo tempo, devemos minimizar o consumo de alimentos relacionados a doenças como diabetes, hipertensão, complicações cardiovasculares. Alguns desses alimentos são:
+   <title/>
  <ol> 
  -ricos em sódio;
  -gorduras saturadas; -frituras;
